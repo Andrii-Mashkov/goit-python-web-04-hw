@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "goit-python-web-04-hw"
+version = "0.1.0"
+description = ""
+authors = ["Andrii-Mashkov <134103866+Andrii-Mashkov@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jinja2 = "^3.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
